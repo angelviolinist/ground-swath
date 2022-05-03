@@ -1,0 +1,501 @@
+platform,flightDirection,centerLat,centerLon,processingLevel,geometry
+Sentinel-1B,DESCENDING,37.4486,-120.9719,METADATA_RAW,POINT (-120.9719 37.4486)
+Sentinel-1B,DESCENDING,37.4486,-120.9719,RAW,POINT (-120.9719 37.4486)
+Sentinel-1B,DESCENDING,37.6937,-121.0714,METADATA_SLC,POINT (-121.0714 37.6937)
+Sentinel-1B,DESCENDING,37.6937,-121.0714,SLC,POINT (-121.0714 37.6937)
+Sentinel-1B,DESCENDING,37.6958,-121.0894,GRD_HD,POINT (-121.0894 37.6958)
+Sentinel-1B,DESCENDING,37.6958,-121.0894,METADATA_GRD_HD,POINT (-121.0894 37.6958)
+Sentinel-1B,DESCENDING,37.6958,-121.0894,METADATA_OCN,POINT (-121.0894 37.6958)
+Sentinel-1B,DESCENDING,37.6958,-121.0894,OCN,POINT (-121.0894 37.6958)
+Sentinel-1B,ASCENDING,38.4872,-122.7218,METADATA_RAW,POINT (-122.7218 38.4872)
+Sentinel-1B,ASCENDING,38.4872,-122.7218,RAW,POINT (-122.7218 38.4872)
+Sentinel-1B,ASCENDING,36.9786,-122.3871,METADATA_RAW,POINT (-122.3871 36.9786)
+Sentinel-1B,ASCENDING,36.9786,-122.3871,RAW,POINT (-122.3871 36.9786)
+Sentinel-1 Interferogram (BETA),ascending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),ascending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),ascending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),ascending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),ascending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),ascending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),ascending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),ascending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),ascending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),ascending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),ascending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),ascending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),ascending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),ascending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),ascending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),ascending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),ascending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),ascending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),ascending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),ascending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1B,ASCENDING,37.2313,-122.2623,METADATA_SLC,POINT (-122.2623 37.2313)
+Sentinel-1B,ASCENDING,37.2313,-122.2623,SLC,POINT (-122.2623 37.2313)
+Sentinel-1B,ASCENDING,37.2259,-122.2511,GRD_HD,POINT (-122.2511 37.2259)
+Sentinel-1B,ASCENDING,37.2259,-122.2511,METADATA_GRD_HD,POINT (-122.2511 37.2259)
+Sentinel-1B,ASCENDING,37.2259,-122.2511,METADATA_OCN,POINT (-122.2511 37.2259)
+Sentinel-1B,ASCENDING,37.2259,-122.2511,OCN,POINT (-122.2511 37.2259)
+Sentinel-1A,DESCENDING,37.3625,-123.0483,METADATA_RAW,POINT (-123.0483 37.3625)
+Sentinel-1A,DESCENDING,37.3625,-123.0483,RAW,POINT (-123.0483 37.3625)
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1A,DESCENDING,37.6216,-123.1491,METADATA_SLC,POINT (-123.1491 37.6216)
+Sentinel-1A,DESCENDING,37.6216,-123.1491,SLC,POINT (-123.1491 37.6216)
+Sentinel-1A,DESCENDING,37.6088,-123.1601,GRD_HD,POINT (-123.1601 37.6088)
+Sentinel-1A,DESCENDING,37.6088,-123.1601,METADATA_GRD_HD,POINT (-123.1601 37.6088)
+Sentinel-1A,DESCENDING,37.6088,-123.1602,METADATA_OCN,POINT (-123.1602 37.6088)
+Sentinel-1A,DESCENDING,37.6088,-123.1602,OCN,POINT (-123.1602 37.6088)
+Sentinel-1A,DESCENDING,38.871,-122.7121,METADATA_RAW,POINT (-122.7121 38.871)
+Sentinel-1A,DESCENDING,38.871,-122.7121,RAW,POINT (-122.7121 38.871)
+Sentinel-1A,DESCENDING,37.417,-120.979,METADATA_RAW,POINT (-120.979 37.417)
+Sentinel-1A,DESCENDING,37.417,-120.979,RAW,POINT (-120.979 37.417)
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1A,DESCENDING,37.6656,-121.0815,METADATA_SLC,POINT (-121.0815 37.6656)
+Sentinel-1A,DESCENDING,37.6656,-121.0815,SLC,POINT (-121.0815 37.6656)
+Sentinel-1A,DESCENDING,37.665,-121.1019,GRD_HD,POINT (-121.1019 37.665)
+Sentinel-1A,DESCENDING,37.665,-121.1019,METADATA_GRD_HD,POINT (-121.1019 37.665)
+Sentinel-1A,DESCENDING,37.6651,-121.1027,METADATA_OCN,POINT (-121.1027 37.6651)
+Sentinel-1A,DESCENDING,37.6651,-121.1027,OCN,POINT (-121.1027 37.6651)
+Sentinel-1A,DESCENDING,37.3625,-123.0475,METADATA_RAW,POINT (-123.0475 37.3625)
+Sentinel-1A,DESCENDING,37.3625,-123.0475,RAW,POINT (-123.0475 37.3625)
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1A,DESCENDING,37.6216,-123.1483,METADATA_SLC,POINT (-123.1483 37.6216)
+Sentinel-1A,DESCENDING,37.6216,-123.1483,SLC,POINT (-123.1483 37.6216)
+Sentinel-1A,DESCENDING,37.6088,-123.1592,GRD_HD,POINT (-123.1592 37.6088)
+Sentinel-1A,DESCENDING,37.6088,-123.1592,METADATA_GRD_HD,POINT (-123.1592 37.6088)
+Sentinel-1A,DESCENDING,37.6088,-123.1593,METADATA_OCN,POINT (-123.1593 37.6088)
+Sentinel-1A,DESCENDING,37.6088,-123.1593,OCN,POINT (-123.1593 37.6088)
+Sentinel-1A,DESCENDING,38.871,-122.7114,METADATA_RAW,POINT (-122.7114 38.871)
+Sentinel-1A,DESCENDING,38.871,-122.7114,RAW,POINT (-122.7114 38.871)
+Sentinel-1A,DESCENDING,37.417,-120.9796,METADATA_RAW,POINT (-120.9796 37.417)
+Sentinel-1A,DESCENDING,37.417,-120.9796,RAW,POINT (-120.9796 37.417)
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1A,DESCENDING,37.6659,-121.0819,METADATA_SLC,POINT (-121.0819 37.6659)
+Sentinel-1A,DESCENDING,37.6659,-121.0819,SLC,POINT (-121.0819 37.6659)
+Sentinel-1A,DESCENDING,37.6649,-121.1024,GRD_HD,POINT (-121.1024 37.6649)
+Sentinel-1A,DESCENDING,37.6649,-121.1024,METADATA_GRD_HD,POINT (-121.1024 37.6649)
+Sentinel-1A,DESCENDING,37.6651,-121.1033,METADATA_OCN,POINT (-121.1033 37.6651)
+Sentinel-1A,DESCENDING,37.6651,-121.1033,OCN,POINT (-121.1033 37.6651)
+Sentinel-1B,DESCENDING,37.4486,-120.9711,METADATA_RAW,POINT (-120.9711 37.4486)
+Sentinel-1B,DESCENDING,37.4486,-120.9711,RAW,POINT (-120.9711 37.4486)
+Sentinel-1B,DESCENDING,37.694,-121.0703,METADATA_SLC,POINT (-121.0703 37.694)
+Sentinel-1B,DESCENDING,37.694,-121.0703,SLC,POINT (-121.0703 37.694)
+Sentinel-1B,DESCENDING,37.6958,-121.0885,GRD_HD,POINT (-121.0885 37.6958)
+Sentinel-1B,DESCENDING,37.6958,-121.0885,METADATA_GRD_HD,POINT (-121.0885 37.6958)
+Sentinel-1B,DESCENDING,37.6958,-121.0885,METADATA_OCN,POINT (-121.0885 37.6958)
+Sentinel-1B,DESCENDING,37.6958,-121.0885,OCN,POINT (-121.0885 37.6958)
+Sentinel-1A,DESCENDING,37.3625,-123.0472,METADATA_RAW,POINT (-123.0472 37.3625)
+Sentinel-1A,DESCENDING,37.3625,-123.0472,RAW,POINT (-123.0472 37.3625)
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1A,DESCENDING,37.6088,-123.1588,GRD_HD,POINT (-123.1588 37.6088)
+Sentinel-1A,DESCENDING,37.6088,-123.1588,METADATA_GRD_HD,POINT (-123.1588 37.6088)
+Sentinel-1A,DESCENDING,37.6088,-123.1589,METADATA_OCN,POINT (-123.1589 37.6088)
+Sentinel-1A,DESCENDING,37.6088,-123.1589,OCN,POINT (-123.1589 37.6088)
+Sentinel-1A,DESCENDING,37.622,-123.1477,METADATA_SLC,POINT (-123.1477 37.622)
+Sentinel-1A,DESCENDING,37.622,-123.1477,SLC,POINT (-123.1477 37.622)
+Sentinel-1A,DESCENDING,38.871,-122.7111,METADATA_RAW,POINT (-122.7111 38.871)
+Sentinel-1A,DESCENDING,38.871,-122.7111,RAW,POINT (-122.7111 38.871)
+Sentinel-1A,DESCENDING,37.417,-120.9794,METADATA_RAW,POINT (-120.9794 37.417)
+Sentinel-1A,DESCENDING,37.417,-120.9794,RAW,POINT (-120.9794 37.417)
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1A,DESCENDING,37.6659,-121.0815,METADATA_SLC,POINT (-121.0815 37.6659)
+Sentinel-1A,DESCENDING,37.6659,-121.0815,SLC,POINT (-121.0815 37.6659)
+Sentinel-1A,DESCENDING,37.665,-121.102,GRD_HD,POINT (-121.102 37.665)
+Sentinel-1A,DESCENDING,37.665,-121.102,METADATA_GRD_HD,POINT (-121.102 37.665)
+Sentinel-1A,DESCENDING,37.6651,-121.1028,METADATA_OCN,POINT (-121.1028 37.6651)
+Sentinel-1A,DESCENDING,37.6651,-121.1028,OCN,POINT (-121.1028 37.6651)
+Sentinel-1B,DESCENDING,37.4486,-120.9721,METADATA_RAW,POINT (-120.9721 37.4486)
+Sentinel-1B,DESCENDING,37.4486,-120.9721,RAW,POINT (-120.9721 37.4486)
+Sentinel-1B,DESCENDING,37.6941,-121.0713,METADATA_SLC,POINT (-121.0713 37.6941)
+Sentinel-1B,DESCENDING,37.6941,-121.0713,SLC,POINT (-121.0713 37.6941)
+Sentinel-1B,DESCENDING,37.6958,-121.0895,GRD_HD,POINT (-121.0895 37.6958)
+Sentinel-1B,DESCENDING,37.6958,-121.0895,METADATA_GRD_HD,POINT (-121.0895 37.6958)
+Sentinel-1B,DESCENDING,37.6958,-121.0895,METADATA_OCN,POINT (-121.0895 37.6958)
+Sentinel-1B,DESCENDING,37.6958,-121.0895,OCN,POINT (-121.0895 37.6958)
+Sentinel-1A,DESCENDING,37.3625,-123.0478,METADATA_RAW,POINT (-123.0478 37.3625)
+Sentinel-1A,DESCENDING,37.3625,-123.0478,RAW,POINT (-123.0478 37.3625)
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1A,DESCENDING,37.6222,-123.1482,METADATA_SLC,POINT (-123.1482 37.6222)
+Sentinel-1A,DESCENDING,37.6222,-123.1482,SLC,POINT (-123.1482 37.6222)
+Sentinel-1A,DESCENDING,37.6088,-123.1593,GRD_HD,POINT (-123.1593 37.6088)
+Sentinel-1A,DESCENDING,37.6088,-123.1593,METADATA_GRD_HD,POINT (-123.1593 37.6088)
+Sentinel-1A,DESCENDING,37.6088,-123.1594,METADATA_OCN,POINT (-123.1594 37.6088)
+Sentinel-1A,DESCENDING,37.6088,-123.1594,OCN,POINT (-123.1594 37.6088)
+Sentinel-1A,DESCENDING,38.8709,-122.7117,METADATA_RAW,POINT (-122.7117 38.8709)
+Sentinel-1A,DESCENDING,38.8709,-122.7117,RAW,POINT (-122.7117 38.8709)
+Sentinel-1A,DESCENDING,37.4169,-120.9786,METADATA_RAW,POINT (-120.9786 37.4169)
+Sentinel-1A,DESCENDING,37.4169,-120.9786,RAW,POINT (-120.9786 37.4169)
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1A,DESCENDING,37.6655,-121.0807,METADATA_SLC,POINT (-121.0807 37.6655)
+Sentinel-1A,DESCENDING,37.6655,-121.0807,SLC,POINT (-121.0807 37.6655)
+Sentinel-1A,DESCENDING,37.6649,-121.1011,GRD_HD,POINT (-121.1011 37.6649)
+Sentinel-1A,DESCENDING,37.6649,-121.1011,METADATA_GRD_HD,POINT (-121.1011 37.6649)
+Sentinel-1A,DESCENDING,37.665,-121.1019,METADATA_OCN,POINT (-121.1019 37.665)
+Sentinel-1A,DESCENDING,37.665,-121.1019,OCN,POINT (-121.1019 37.665)
+Sentinel-1A,ASCENDING,38.6537,-122.7591,METADATA_RAW,POINT (-122.7591 38.6537)
+Sentinel-1A,ASCENDING,38.6537,-122.7591,RAW,POINT (-122.7591 38.6537)
+Sentinel-1A,ASCENDING,37.1451,-122.4237,METADATA_RAW,POINT (-122.4237 37.1451)
+Sentinel-1A,ASCENDING,37.1451,-122.4237,RAW,POINT (-122.4237 37.1451)
+Sentinel-1 Interferogram (BETA),ascending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),ascending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),ascending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),ascending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),ascending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1A,ASCENDING,37.3961,-122.3137,METADATA_SLC,POINT (-122.3137 37.3961)
+Sentinel-1A,ASCENDING,37.3961,-122.3137,SLC,POINT (-122.3137 37.3961)
+Sentinel-1A,ASCENDING,37.3888,-122.3099,GRD_HD,POINT (-122.3099 37.3888)
+Sentinel-1A,ASCENDING,37.3888,-122.3099,METADATA_GRD_HD,POINT (-122.3099 37.3888)
+Sentinel-1A,ASCENDING,37.3888,-122.3099,METADATA_OCN,POINT (-122.3099 37.3888)
+Sentinel-1A,ASCENDING,37.3888,-122.3099,OCN,POINT (-122.3099 37.3888)
+Sentinel-1B,DESCENDING,37.4486,-120.9724,METADATA_RAW,POINT (-120.9724 37.4486)
+Sentinel-1B,DESCENDING,37.4486,-120.9724,RAW,POINT (-120.9724 37.4486)
+Sentinel-1B,DESCENDING,37.6939,-121.0717,METADATA_SLC,POINT (-121.0717 37.6939)
+Sentinel-1B,DESCENDING,37.6939,-121.0717,SLC,POINT (-121.0717 37.6939)
+Sentinel-1B,DESCENDING,37.6958,-121.0899,GRD_HD,POINT (-121.0899 37.6958)
+Sentinel-1B,DESCENDING,37.6958,-121.0899,METADATA_GRD_HD,POINT (-121.0899 37.6958)
+Sentinel-1B,DESCENDING,37.6958,-121.0899,METADATA_OCN,POINT (-121.0899 37.6958)
+Sentinel-1B,DESCENDING,37.6958,-121.0899,OCN,POINT (-121.0899 37.6958)
+Sentinel-1B,ASCENDING,38.4872,-122.7207,METADATA_RAW,POINT (-122.7207 38.4872)
+Sentinel-1B,ASCENDING,38.4872,-122.7207,RAW,POINT (-122.7207 38.4872)
+Sentinel-1B,ASCENDING,36.9787,-122.386,METADATA_RAW,POINT (-122.386 36.9787)
+Sentinel-1B,ASCENDING,36.9787,-122.386,RAW,POINT (-122.386 36.9787)
+Sentinel-1B,ASCENDING,37.2318,-122.2615,METADATA_SLC,POINT (-122.2615 37.2318)
+Sentinel-1B,ASCENDING,37.2318,-122.2615,SLC,POINT (-122.2615 37.2318)
+Sentinel-1B,ASCENDING,37.226,-122.2501,GRD_HD,POINT (-122.2501 37.226)
+Sentinel-1B,ASCENDING,37.226,-122.2501,METADATA_GRD_HD,POINT (-122.2501 37.226)
+Sentinel-1B,ASCENDING,37.226,-122.2501,METADATA_OCN,POINT (-122.2501 37.226)
+Sentinel-1B,ASCENDING,37.226,-122.2501,OCN,POINT (-122.2501 37.226)
+Sentinel-1A,DESCENDING,37.3625,-123.0481,METADATA_RAW,POINT (-123.0481 37.3625)
+Sentinel-1A,DESCENDING,37.3625,-123.0481,RAW,POINT (-123.0481 37.3625)
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1A,DESCENDING,37.6088,-123.1595,GRD_HD,POINT (-123.1595 37.6088)
+Sentinel-1A,DESCENDING,37.6088,-123.1595,METADATA_GRD_HD,POINT (-123.1595 37.6088)
+Sentinel-1A,DESCENDING,37.6088,-123.1596,METADATA_OCN,POINT (-123.1596 37.6088)
+Sentinel-1A,DESCENDING,37.6088,-123.1596,OCN,POINT (-123.1596 37.6088)
+Sentinel-1A,DESCENDING,37.6215,-123.1486,METADATA_SLC,POINT (-123.1486 37.6215)
+Sentinel-1A,DESCENDING,37.6215,-123.1486,SLC,POINT (-123.1486 37.6215)
+Sentinel-1A,DESCENDING,38.8709,-122.712,METADATA_RAW,POINT (-122.712 38.8709)
+Sentinel-1A,DESCENDING,38.8709,-122.712,RAW,POINT (-122.712 38.8709)
+Sentinel-1A,DESCENDING,37.4171,-120.9777,METADATA_RAW,POINT (-120.9777 37.4171)
+Sentinel-1A,DESCENDING,37.4171,-120.9777,RAW,POINT (-120.9777 37.4171)
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1A,DESCENDING,37.6656,-121.0798,METADATA_SLC,POINT (-121.0798 37.6656)
+Sentinel-1A,DESCENDING,37.6656,-121.0798,SLC,POINT (-121.0798 37.6656)
+Sentinel-1A,DESCENDING,37.6649,-121.1005,GRD_HD,POINT (-121.1005 37.6649)
+Sentinel-1A,DESCENDING,37.6649,-121.1005,METADATA_GRD_HD,POINT (-121.1005 37.6649)
+Sentinel-1A,DESCENDING,37.6651,-121.1016,METADATA_OCN,POINT (-121.1016 37.6651)
+Sentinel-1A,DESCENDING,37.6651,-121.1016,OCN,POINT (-121.1016 37.6651)
+Sentinel-1B,DESCENDING,37.4485,-120.9723,METADATA_RAW,POINT (-120.9723 37.4485)
+Sentinel-1B,DESCENDING,37.4485,-120.9723,RAW,POINT (-120.9723 37.4485)
+Sentinel-1B,DESCENDING,37.6939,-121.0716,METADATA_SLC,POINT (-121.0716 37.6939)
+Sentinel-1B,DESCENDING,37.6939,-121.0716,SLC,POINT (-121.0716 37.6939)
+Sentinel-1B,DESCENDING,37.6957,-121.0897,GRD_HD,POINT (-121.0897 37.6957)
+Sentinel-1B,DESCENDING,37.6957,-121.0897,METADATA_GRD_HD,POINT (-121.0897 37.6957)
+Sentinel-1B,DESCENDING,37.6957,-121.0897,METADATA_OCN,POINT (-121.0897 37.6957)
+Sentinel-1B,DESCENDING,37.6957,-121.0897,OCN,POINT (-121.0897 37.6957)
+Sentinel-1B,ASCENDING,38.4873,-122.7208,METADATA_RAW,POINT (-122.7208 38.4873)
+Sentinel-1B,ASCENDING,38.4873,-122.7208,RAW,POINT (-122.7208 38.4873)
+Sentinel-1B,ASCENDING,36.9786,-122.3861,METADATA_RAW,POINT (-122.3861 36.9786)
+Sentinel-1B,ASCENDING,36.9786,-122.3861,RAW,POINT (-122.3861 36.9786)
+Sentinel-1B,ASCENDING,37.2316,-122.2616,METADATA_SLC,POINT (-122.2616 37.2316)
+Sentinel-1B,ASCENDING,37.2316,-122.2616,SLC,POINT (-122.2616 37.2316)
+Sentinel-1B,ASCENDING,37.226,-122.2503,GRD_HD,POINT (-122.2503 37.226)
+Sentinel-1B,ASCENDING,37.226,-122.2503,METADATA_GRD_HD,POINT (-122.2503 37.226)
+Sentinel-1B,ASCENDING,37.226,-122.2503,METADATA_OCN,POINT (-122.2503 37.226)
+Sentinel-1B,ASCENDING,37.226,-122.2503,OCN,POINT (-122.2503 37.226)
+Sentinel-1A,DESCENDING,37.3624,-123.0487,METADATA_RAW,POINT (-123.0487 37.3624)
+Sentinel-1A,DESCENDING,37.3624,-123.0487,RAW,POINT (-123.0487 37.3624)
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_CON,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_UNW,POINT EMPTY
+Sentinel-1A,DESCENDING,37.6221,-123.1491,METADATA_SLC,POINT (-123.1491 37.6221)
+Sentinel-1A,DESCENDING,37.6221,-123.1491,SLC,POINT (-123.1491 37.6221)
+Sentinel-1A,DESCENDING,37.6087,-123.1602,GRD_HD,POINT (-123.1602 37.6087)
+Sentinel-1A,DESCENDING,37.6087,-123.1602,METADATA_GRD_HD,POINT (-123.1602 37.6087)
+Sentinel-1A,DESCENDING,37.6088,-123.1603,METADATA_OCN,POINT (-123.1603 37.6088)
+Sentinel-1A,DESCENDING,37.6088,-123.1603,OCN,POINT (-123.1603 37.6088)
+Sentinel-1A,DESCENDING,38.8709,-122.7127,METADATA_RAW,POINT (-122.7127 38.8709)
+Sentinel-1A,DESCENDING,38.8709,-122.7127,RAW,POINT (-122.7127 38.8709)
+Sentinel-1A,DESCENDING,37.4169,-120.9786,METADATA_RAW,POINT (-120.9786 37.4169)
+Sentinel-1A,DESCENDING,37.4169,-120.9786,RAW,POINT (-120.9786 37.4169)
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_STD,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_AMP,POINT EMPTY
+Sentinel-1 Interferogram (BETA),descending,,,GUNW_COH,POINT EMPTY
