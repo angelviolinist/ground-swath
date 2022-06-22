@@ -10,5 +10,5 @@ raan = -19.61601 * u.deg
 argp = 89.99764 * u.deg
 nu = -89.99818 * u.deg
 
-orb = Orbit.from_classical(Sun, a, ecc, inc, raan, argp, nu)
+orb = Orbit.from_classical(Earth, a, ecc, inc, raan, argp, nu)
 orb.plot()
