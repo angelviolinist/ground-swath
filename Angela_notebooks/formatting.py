@@ -3,6 +3,7 @@ import pandas as pd
 import geopandas as gpd
 from shapely.geometry import shape
 from rasterio.crs import CRS
+from warnings import warn
 
 # for formatting the datetime object to asfsearch syntax
 def datetime2asfsearch(entered_date: datetime) -> str:
@@ -13,7 +14,10 @@ def asfsearch2datetime(entered_date: str) -> datetime:
     try:
         dtime = datetime.strptime(entered_date, '%Y-%m-%dT%H:%M:%S.%f')
     except:
-        dtime = datetime.strptime(entered_date, '%Y-%m-%dT%H:%M:%S.%fZ')
+        try:
+            dtime = datetime.strptime(entered_date, '%Y-%m-%dT%H:%M:%S.%fZ')
+        except:
+            dtime = datetime.strptime(entered_date, '%Y-%m-%d %H:%M:%S') 
     return dtime
 
 # reformat results from asf_search list to geodataframe
@@ -42,6 +46,7 @@ def format_results_for_sent1(results: list) -> gpd.GeoDataFrame:
 def format_results_for_hls(results: list) -> gpd.GeoDataFrame:
     geometry = [shape(r.geometry) for r in results]
     data = [r.properties for r in results]
+    print(len(data))
 
     df = pd.DataFrame(data)
     df = gpd.GeoDataFrame(df, geometry=geometry, crs=CRS.from_epsg(4326))
