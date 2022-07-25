@@ -68,7 +68,7 @@ def acq_search(sensor_name: str, aoi: Polygon, date):
         elif 'sentinel2' in sensor_name.lower():
             results = hls_search('sentinel2', aoi, [date + timedelta(days = 5 * rep), date + timedelta(days = 5 * (rep + 1))])
             
-        print(len(results))
+        # print(len(results))
         if len(results) > 0:
             if 'landsat8' in sensor_name.lower() or 'sentinel2' in sensor_name.lower():
                 df = f.format_results_for_hls(results)
@@ -78,12 +78,12 @@ def acq_search(sensor_name: str, aoi: Polygon, date):
     
     # extract time of next acquisition
     if not df.empty:
-        print(len(df))
+        # print(len(df))
 
         try:
             next_acq = df.start_datetime[0]
         except:
-            next_acq = df.startTime[-1]
+            next_acq = df.startTime[0]
 
     else:
         next_acq = 'Search yielded no results'

@@ -46,7 +46,7 @@ def format_results_for_sent1(results: list) -> gpd.GeoDataFrame:
 def format_results_for_hls(results: list) -> gpd.GeoDataFrame:
     geometry = [shape(r.geometry) for r in results]
     data = [r.properties for r in results]
-    print(len(data))
+    # print(len(data))
 
     df = pd.DataFrame(data)
     df = gpd.GeoDataFrame(df, geometry=geometry, crs=CRS.from_epsg(4326))
